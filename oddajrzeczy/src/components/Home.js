@@ -7,15 +7,14 @@ import WhoWeHelp from "./WhoWeHelp";
 import ContactUs from "./ContactUs";
 
 const Home = () => {
-
     return (
         <>
             <Header/>
-            <HeaderThreeColumns/>
+            {/*<HeaderThreeColumns/>*/}
             <FourSteps/>
-            <AboutUs/>
-            <WhoWeHelp/>
-            <ContactUs/>
+            {/*<AboutUs/>*/}
+            {/*<WhoWeHelp/>*/}
+            {/*<ContactUs/>*/}
         </>
     )
 }
