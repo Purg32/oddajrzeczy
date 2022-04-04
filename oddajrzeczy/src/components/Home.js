@@ -10,7 +10,7 @@ const Home = () => {
     return (
         <>
             <Header/>
-            {/*<HeaderThreeColumns/>*/}
+            <HeaderThreeColumns/>
             <FourSteps/>
             {/*<AboutUs/>*/}
             {/*<WhoWeHelp/>*/}
